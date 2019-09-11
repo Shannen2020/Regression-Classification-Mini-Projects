@@ -1,3 +1,6 @@
-# homework-2-redouane-dziri
+# Regression and Classification Examples
 
-The Jupyter notebooks contain the tasks 1 and 2
+This repository contains two mini-projects using `scikit-learn`:
+
+- the first aims at predicting house prices using the Ames Housing dataset
+- the second aims at classifying churned data points on the Telco Churn data
