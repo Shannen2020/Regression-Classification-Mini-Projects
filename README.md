@@ -1,6 +1,6 @@
 # Regression and Classification Examples
 
-Author: Redouane Dziri
+Author: *Redouane Dziri*
 
 This repository contains two mini-projects using `scikit-learn`:
 
